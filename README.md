@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm [Panuganti Ashmitha] 👋
 
-<!--
-**PAshmitha/PAshmitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **Software Engineer** with a **B.Tech in Artificial Intelligence and Machine Learning**. Passionate about **AI, Machine Learning, Computer Vision, and Software Development**, I love optimizing applications and staying updated with the latest advancements in **AI, Space, and Robotics**.
+## 🌟 About Me
+- 🤖 Currently working on **AI-powered Image Colorization** using multi-modal learning.
+- 🚀 Passionate about **AI, Space, Robotics, and Open Source Development**.
+- 📚 Constantly improving my skills in **Machine Learning, Deep Learning, and Full-Stack Development**.
+## 🛠️ Tech Stack & Tools
+- **Languages:** Python, Java, JavaScript
+- **Frameworks & Libraries:** TensorFlow, PyTorch, OpenCV
+- **Databases:** MongoDB, MySQL
+- **DevOps & Tools:** Git,  VS Code
+- **Cloud & APIs:** AWS, Google Cloud
+## 🚀 Projects
+- **[Disease Prediction using Machine Learning](#)** - AI-driven model for early disease detection.
+- **[Santorini Website](#)** - A beautifully designed website using HTML, CSS, and JavaScript.
+- **Currently working on:** **AI-powered Image Colorization** using deep learning and multi-modal techniques.
+## 📬 Connect with Me
+Linkedin:https://www.linkedin.com/in/ashmitha-panuganti-743958255/
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
