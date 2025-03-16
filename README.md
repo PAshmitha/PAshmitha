@@ -13,7 +13,7 @@ Aspiring **Software Engineer** with a **B.Tech in Artificial Intelligence and Ma
 - **Cloud & APIs:** AWS, Google Cloud
 ## 🚀 Projects
 - **[Disease Prediction using Machine Learning](#)** - AI-driven model for early disease detection.
-- **[Santorini Website](#)** - A beautifully designed website using HTML, CSS, and JavaScript.
+- **[Santorini Website](#)** - A beautifully designed website using HTML
 - **Currently working on:** **AI-powered Image Colorization** using deep learning and multi-modal techniques.
 ## 📬 Connect with Me
 Linkedin:https://www.linkedin.com/in/ashmitha-panuganti-743958255/
